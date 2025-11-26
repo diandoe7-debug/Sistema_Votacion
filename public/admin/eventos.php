@@ -1289,16 +1289,6 @@ if ($db) {
                 </tbody>
             </table>
         </div>
-
-        <!-- BOTONES ADICIONALES - 2 ABAJO -->
-        <div class="actions-grid-bottom">
-            <a href="categorias.php" class="btn btn-info-large interactive-element">
-                🏷️ Gestionar Todas las Categorías
-            </a>
-            <a href="participantes.php" class="btn btn-warning-large interactive-element">
-                👥 Gestionar Todos los Participantes
-            </a>
-        </div>
     </div>
 
     <script>
@@ -1370,4 +1360,5 @@ if ($db) {
         });
     </script>
 </body>
+
 </html>
